@@ -18,10 +18,10 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |$$\
 <!-- About -->
 ### about me
 <pre>
-    🔱 Sophomore at Arizona State University
-    💻 Graphic Information Technology major
-    ⚾ My goal is to work in baseball
-    🐈‍⬛ Petting cats is my hobby
+🔱 Sophomore at Arizona State University
+💻 Graphic Information Technology major
+⚾ My goal is to work in baseball
+🐈‍⬛ Petting cats is my hobby
 </pre>
 
 <!-- Technical Skills -->
