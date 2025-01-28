@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
+<!-- ASCII -->
+<pre>
+$$\                 $$\ $$\           $$\ 
+$$ |                $$ |$$ |          $$ |
+$$$$$$$\   $$$$$$\  $$ |$$ | $$$$$$\  $$ |
+$$  __$$\ $$  __$$\ $$ |$$ |$$  __$$\ $$ |
+$$ |  $$ |$$$$$$$$ |$$ |$$ |$$ /  $$ |\__|
+$$ |  $$ |$$   ____|$$ |$$ |$$ |  $$ |    
+$$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |$$\ 
+\__|  \__| \_______|\__|\__| \______/ \__|
+</pre>
 
-<!--
-**ahobbe/ahobbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Cats -->
+<img src="meow.gif" align="left" width="25%">
+<img src="meow.gif" align="right" width="25%">
 
-Here are some ideas to get you started:
+<!-- About -->
+### about me
+<pre>
+    🔱 Sophomore at Arizona State University
+    💻 Graphic Information Technology major
+    ⚾ Sun Devil Baseball student manager
+    🐈‍⬛ Cat enthusiast
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Technical Skills -->
+### technical skills
+<pre>
+📷 Adobe Photoshop, Illustrator, InDesign
+📈 Microsoft Excel
+🐍 Python
+</pre>
+
+<!-- Currently learning -->
+🌐 currently learning html & css
+
+<br>
+
+<!-- Profile links -->
+[![Behance](https://img.shields.io/badge/behance-0057ff)](https://be.net/anna-hobbs)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/anna-hobbs)
+</div>
