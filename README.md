@@ -20,8 +20,8 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |$$\
 <pre>
     🔱 Sophomore at Arizona State University
     💻 Graphic Information Technology major
-    ⚾ Sun Devil Baseball student manager
-    🐈‍⬛ Cat enthusiast
+    ⚾ My goal is to work in baseball
+    🐈‍⬛ Petting cats is my hobby
 </pre>
 
 <!-- Technical Skills -->
