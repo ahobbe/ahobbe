@@ -36,8 +36,14 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |$$\
 🌐 currently learning html & css
 
 <br>
+<br>
 
 <!-- Profile links -->
 [![Behance](https://img.shields.io/badge/behance-0057ff)](https://be.net/anna-hobbs)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/anna-hobbs)
+
+<br>
+
+<!-- Widget thing -->
+![ahobbe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahobbe&theme=github_dark&show_icons=true)
 </div>
